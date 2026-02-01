@@ -1,0 +1,3 @@
+Site: https://www.google.com | Status: 200 | Seguro (HTTPS)
+Site: http://www.exemplo-nao-seguro.com | Erro: Falha de conexão ou site inexistente.
+Site: https://www.alguemquenaoexiste123.com | Erro: Falha de conexão ou site inexistente.
